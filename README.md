@@ -42,4 +42,4 @@ Sending data to Bluetooth client, AWS IoT client (MQTT) and showing current data
 
 ### Image of working prototype with screen
 
-![Image](./images/image.jpg)
+![Image](./images/image.jpeg)
